@@ -108,7 +108,7 @@ print("\n✅ Data structure verified. Ready to proceed!")
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/brain-tumor-classifier.git
+git clone https://github.com/Repetto-A/Brain-Tumor-Classifier.git
 cd brain-tumor-classifier
 ```
 
@@ -296,11 +296,11 @@ If you use this code in your research or project, please cite:
 
 ```bibtex
 @misc{brain_tumor_classifier_2025,
-  author = {Your Name},
+  author = {Alejandro Repetto},
   title = {Brain Tumor Classifier: A PyTorch Implementation},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/brain-tumor-classifier}
+  url = {https://github.com/Repetto-A/Brain-Tumor-Classifier}
 }
 ```
 
@@ -328,8 +328,16 @@ If you use this code in your research or project, please cite:
 ## Contact
 
 For questions, issues, or suggestions:
-- **Issues**: [GitHub Issues](https://github.com/yourusername/brain-tumor-classifier/issues)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/Repetto-A/Brain-Tumor-Classifier/issues)
+- **Email**: contact@repetto-a.com
+
+---
+
+## 🌐 Web Demo
+
+The trained model from this repo is deployed as a browser-based classifier — no upload, 100% client-side:
+
+**[BrainTumorAI-Web →](https://github.com/Repetto-A/BrainTumorAI-Web)** · [Live demo](https://brain-tumor-ai-web.vercel.app)
 
 ---
 
